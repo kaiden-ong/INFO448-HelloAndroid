@@ -1,3 +1,7 @@
+# Extra Credit Part 2:
+## What is pointer location in the developer tools?
+Pointer location is under the "Input" section of developer tools. When toggles on, a bar appears at the top that tracks the x-y position of the pointer (where your finger is touching the screen). The position changes with as you move the pointer and draws the pointer path on the screen as well.
+
 # UW Homework: Hello Android
 This homework is designed to force you to ensure that the tools are correctly installed on your machine, and that you can:
 
